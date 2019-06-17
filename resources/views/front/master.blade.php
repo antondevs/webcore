@@ -16,7 +16,7 @@
             <div class="site-header-inner">
                 <div class="brand header-brand">
                     <h1 class="m-0">
-                        <a href="#">
+                        <a href="/">
                             <img class="header-logo-image asset-light" src="/front/images/logo-light.svg" alt="Logo">
                             <img class="header-logo-image asset-dark" src="/front/images/logo-dark.svg" alt="Logo">
                         </a>
